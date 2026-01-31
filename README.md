@@ -57,5 +57,5 @@ Land an **iOS Development internship** at a top-tier tech company → ship real 
 
 > 💡  Why iOS? I love building interfaces that millions of people touch daily — where elegant code meets human experience.
 
-📫 **Let's connect**: • [Telegram](https://t.me/wraxau) • [Email](wraxau@yandex.ru)
+📫 **Let's connect**: • [Telegram](https://t.me/wraxau) • Email: wraxau@yandex.ru
 
