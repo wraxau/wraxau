@@ -15,7 +15,7 @@
 ### 📚 Specialized Training
 | Course | Provider | Focus | Status |
 |--------|----------|-------|--------|
-| **iOS Development** | HSE University | SwiftUI, UIKit, SwiftUI, Core Data, MVC, MVVM | 🟢 In progress (2026) |
+| **iOS Development** | HSE University | SwiftUI, UIKit, Core Data, Firebase, MVC, MVVM | 🟢 In progress (2026) |
 | **Swift & UIKit Fundamentals** | SwiftBook | UIKit architecture, Auto Layout, networking | ✅ Completed (2025) |
 
 > 💡 **Why it matters**: My academic background in CS + focused iOS training = strong foundation in both theory (algorithms, architecture) and practice (shipping real apps).
@@ -29,8 +29,13 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-000000?logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![CoreData](https://img.shields.io/badge/CoreData-000000?logo=apple&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+### 🔌 Backend Integration
+![REST API](https://img.shields.io/badge/REST_API-000000?logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 
 ### ➕ Additional Skills
 | Category | Technologies |
