@@ -57,7 +57,7 @@
 | **📚 BookTracker** | Book search via Google Books API, programmatic UIKit, Core Data CRUD (Read/Want to Read), MVC architecture | Swift, UIKit, Core Data, MVC, REST API | 🟢 Active |
 | **🌤️ Weather** | Real-time forecasts via OpenWeatherMap, SwiftUI, MVVM, async/await, dynamic UI & custom animations | Swift, SwiftUI, MVVM, Async/Await, REST API | ✅ Completed |
 | **🇳🇱 Learn Dutch** | Interactive vocabulary trainer with flashcards, audio pronunciation (AVFoundation) & progress tracking | Swift, SwiftUI, UIKit, AVFoundation, UserDefaults | 🟡 In progress |
-| **✈️ TripPlanner** | Trip planning with expense tracking, multi-currency support & map integration | Swift, UIKit, MapKit, Core Data | 🟡 Course project |
+| **✈️ TripPlanner** | Trip planning with expense tracking, multi-currency support & map integration | Swift, SwiftUI, MapKit, Core Data | 🟡 Course project |
 | **🤖 Telegram Bot** | Wardrobe management bot with AI outfit suggestions | Python, Telegram API | 🔵 Side project |
 ---
 
