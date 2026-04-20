@@ -44,7 +44,7 @@
 ### ➕ Additional Skills
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | Java,  Python, REST API, PostgreSQL |
+| **Backend** | Python, REST API, PostgreSQL |
 | **Data Analysis** | Python (pandas, matplotlib, seaborn) |
 | **Tools** | Git, Docker, macOS, Linux, Yandex DataLens |
 
